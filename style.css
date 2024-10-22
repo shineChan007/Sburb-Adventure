@@ -1,0 +1,54 @@
+
+
+body {
+    background-color: #535353;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0px;
+    margin-top: 150px;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+}
+
+header {
+    border: solid 2px #c6c6c6;
+    background-color: #c6c6c6;
+}
+
+.container {
+    background-color: #eeeeee;
+}
+
+button {
+    background-color: #c6c6c6;
+    color: black;
+    font-size: 20px;
+    line-height: 55px;
+    border-width: 3px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 1em;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display: block;
+}
+
+main {
+    text-align: center;
+    font-size: 1.5em;
+    max-width: 90%;
+}
+
+img {
+    max-width: 80%;
+}
