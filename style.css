@@ -13,6 +13,10 @@ body {
     font-optical-sizing: auto;
 }
 
+h1 {
+    font-size: 1em;
+}
+
 header {
     border: solid 2px #c6c6c6;
     background-color: #c6c6c6;
@@ -46,7 +50,7 @@ button {
 main {
     text-align: center;
     font-size: 1.5em;
-    max-width: 90%;
+    max-width: 55%;
 }
 
 img {
